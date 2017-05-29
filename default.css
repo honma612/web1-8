@@ -43,10 +43,10 @@ body{
   padding:10px 5px;
 }
 div.img#menu1{background-position: 0 0px}
-div.img#menu2{background-position: 0 -46px}
-div.img#menu3{background-position: 0 -92px}
-div.img#menu4{background-position: 0 -138px}
-div.img#menu5{background-position: 0 -184px}
+div.img#menu2{background-position: 0 -30px}
+div.img#menu3{background-position: 0 -60px}
+div.img#menu4{background-position: 0 -90px}
+div.img#menu5{background-position: 0 -120px}
 
 #gnav ul{
   overflow: hidden;

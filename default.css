@@ -3,6 +3,16 @@
 body{
   background-color: cyan;
 }
+
+#gnav a{
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: none;
+  background: darkblue;
+  color: white;
+}
+
 #gnav ul{
   overflow: hidden;
 }

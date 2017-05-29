@@ -24,6 +24,11 @@ body{
   color: white;
 }
 
+#gnav a:hover{
+  background: lightblue;
+  color: black;
+}
+
 #gnav ul{
   overflow: hidden;
 }

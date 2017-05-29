@@ -3,6 +3,20 @@
 body{
   background-color: cyan;
 }
+#gnav ul{
+  overflow: hidden;
+}
+
+#gnav li{
+  float: left;
+  width: 156px;
+  border-right: blue 1px solid;
+  list-style-type: none;
+}
+
+#gnav li:first-child{
+  border-left: blue 1px solid;
+}
 
 .breadcrumbs li{
   display: inline;

@@ -3,3 +3,16 @@
 body{
   background-color: cyan;
 }
+
+.breadcrumbs li{
+  display: inline;
+  list-style-type: none;
+}
+
+.breadcrumbs li:defore{
+  content: " > ";
+}
+
+.breadcrumbs li:first-child:before{
+  content:"";
+}
